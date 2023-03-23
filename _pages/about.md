@@ -1,25 +1,31 @@
 ---
 layout: about
-title: about
+title: About
+order: 1
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: dave.jpg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    zhenyu[dot]chen{at}tum[dot]de
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I'm Dave Zhenyu Chen (in Chinese: 陈振宇).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently a PhD candidate at <a href="http://niessnerlab.org/" target="_blank">TUM Visual Computing Group</a>. My interests are in the intersection between Deep Learning, 3D Computer Vision and Natural Language Processing. More specifically:
+<ul>
+  <li>3D scene understanding;</li>
+  <li>Grounding natural language in 3D environments;</li>
+  <li>Text-to-3D synthesis.</li>
+</ul>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I've been researching full-time at <a href="http://niessnerlab.org/" target="_blank"> Prof. Matthias Nießner's</a> Visual Computing Group at the Technical University of Munich for the past 4 years. I also have a close research collaboration with <a href="https://angelxuanchang.github.io/" target="_blank">Prof. Angel Chang</a> at Simon Fraser University, Canada.
+
+Prior to the PhD, I received my Master's Degree in Informatics at <a href="https://www.ifi.lmu.de/" target="_blank">Ludwig Maximilians University of Munich (LMU)</a>. 
