@@ -15,7 +15,7 @@
       institution: Technical University of Munich (TUM), Garching, Germany
       year: 2019 -
       description:
-        - title: Bridging 3D Physical World and Natural Language
+        - title: Grounding Natural Language to 3D Scenes
           contents:
             - Text-driven object localization in RGB-D scans
             - Automatic description generation for 3D objects
@@ -39,30 +39,36 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Visiting Student Researcher
+    - title: Research Collaboration, 3D Texture Synthesis from text inputs
+      institution: Snap Research, Remote
+      year: 2023.1 - 2023.11
+      description:
+        - Mentored by Hsin-Ying Lee.
+        - Designed a new text-to-texture synthesis framework via depth-condititoned diffusion models.
+        - Published the work at ICCV 2023.
+
+    - title: Research Collaboration, 3D vision-language fundation models
+      institution: Meta AI (FAIR), Remote
+      year: 2022.6 - 2022.11
+      description:
+        - Mentored by Ronghang Hu & Xinlei Chen.
+        - Developed a novel fundation model for 3D vision-language tasks.
+        - Published the work at ICCV 2023.
+
+    - title: Visiting Researcher, Unified models for 3D vision-language tasks
       institution: Simon Fraser University (SFU), Canada
       year: 2022.2 - 2022.5
       description:
-        - Mentored by Prof. Dr. Angel X. Chang
-      
-    - title: Ph.D. Candidate
-      institution: Technical University of Munich (TUM), Germany
-      year: 2019.2 -
-      description:
-        - Mentored by Prof. Dr. Matthias Nießner and Prof. Dr. Angel X. Chang
-
-    - title: Research Intern
-      institution: Technical University of Munich (TUM), Germany
-      year: 2018.11 - 2019.2
-      description:
-        - Mentored by Prof. Matthias Nießner on cross-modal retrieval for 3D shapes
+        - Mentored by Prof. Dr. Angel X. Chang.
+        - Developed a novel unified model for 3D vision-language tasks.
+        - Published the work at ECCV 2022.
 
 - title: Review Services
   type: time_table
   contents:
     - title: Conferences
       year: 2020 - now
-      description: CVPR, ECCV, ICCV, ICRA, WACV, 3DV.
+      description: CVPR, ECCV, ICCV, NeurIPS, SIGGRAPH, ICRA, WACV, 3DV.
     - title: Journals
       year: 2020 - now
       description: IJCV, TVCG.
@@ -70,6 +76,10 @@
 - title: Workshops
   type: time_table
   contents:
+    - title: Organizer
+      year: 2023
+      description: 3rd Language for 3D Scenes Workshop, ICCV 2023
+
     - title: Organizer
       year: 2022
       description: 2nd Language for 3D Scenes Workshop, ECCV 2022

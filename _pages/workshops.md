@@ -11,6 +11,33 @@ nav: true
     <div class="p-3">
         <div class="row">
             <div class="col-sm-12">
+                <h5 class="card-title"><a href="https://languagefor3dscenes.github.io/ICCV2023/" target="_blank" rel="noopener noreferrer">3rd Workshop on Language for 3D Scenes</a></h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-9">
+                <h6 class="font-italic">ICCV 2023: Co-organizer</h6>
+            </div>
+            <div class="col-sm-3">
+                <a href="https://languagefor3dscenes.github.io/ICCV2023/" target="_blank" rel="noopener noreferrer">website</a>
+                <!-- &nbsp;
+                <a href="" target="_blank" rel="noopener noreferrer">Coming soon!</a> -->
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+            This is the second workshop on natural language and 3D-oriented object understanding of real-world scenes. This year, we host three benchmark challenges on language-assisted 3D localization and identification tasks, including a brand new dense captioning challenge. The workshop consists of presentations by experts in the field and short talks regarding methods addressing the benchmark challenges designed to highlight the emerging open problems in this area.
+            </div>
+        </div>
+    
+    </div>
+</div>
+
+<div class="card mt-3">
+    <div class="p-3">
+        <div class="row">
+            <div class="col-sm-12">
                 <h5 class="card-title"><a href="https://languagefor3dscenes.github.io/ECCV2022/" target="_blank" rel="noopener noreferrer">2nd Workshop on Language for 3D Scenes</a></h5>
             </div>
         </div>
